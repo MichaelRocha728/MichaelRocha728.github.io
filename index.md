@@ -2,122 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Michael Rocha 
 
-[Link to another page](./another-page.html).
+## Summary 
 
-There should be whitespace between paragraphs.
+Business Analytics graduate student at **Cal State San Marcos** working toward a career as a **data scientist**. I am learning `Python` to clean, analyze, and visualize data. I am building toward machine learning to automate and simplify data-driven work. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+- *B.S. in Business Administration*, Southeast Missouri State University **(2026)**
+- *M.S. Business Analytics*, California State University San Marcos **(Expected Summer 2027)**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Experience
 
-## Header 2
+**Founder and Instructor**, Hittingwithmikey, *June 2026 to Present*: Track client performance data in `Excel` and use the results to give data-informed feedback and guidance.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- `Excel` *Microsoft Office Specialist (MOS) Associate certified*, earned at Southeast Missouri State University **2025**
+- `GitHub` (beginner), used to build and publicize this portfolio
+- `Python` (in progress), used in current coursework for data cleaning and visualization
 
 
-### Definition lists can be used with HTML syntax.
+## Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### This E-Portfolio
+ Built and published a personal website using `Git` and `GitHub Pages` with content written in markdown. 
+[view the repository](https://github.com/MichaelRocha728/MichaelRocha728.github.io)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## Contact
+
+- Email: rocha196@csusm.edu
+- [Github](https://github.com/MichaelRocha728)
