@@ -2,11 +2,10 @@ title: Michael Rocha
 logo: /assets/img/logo.png
 description: Business analytics graduate student and aspiring data scientist
 show_downloads: false
-google_analytics:
 remote_theme: pages-themes/minimal
 # README line with @v0.2.0 failed to build ("theme could not be found"), so I removed the version tag:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-gem "github-pages", group: :jekyll_plugins
+

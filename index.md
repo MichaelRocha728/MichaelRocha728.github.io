@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Michael Rocha 
+# About Me 
 
 ## Summary 
 
@@ -15,12 +15,12 @@ Business Analytics graduate student at **Cal State San Marcos** working toward a
 
 ## Experience
 
-**Founder and Instructor**, Hittingwithmikey, *June 2026 to Present*: Track client performance data in `Excel` and use the results to give data-informed feedback and guidance.
+1. **Founder and Instructor**, Hittingwithmikey, *June 2026 to Present*: Track client performance data in `Excel` and use the results to give data-informed feedback and guidance.
 
 ## Skills
 
-- `Excel` *Microsoft Office Specialist (MOS) Associate certified*, earned at Southeast Missouri State University **2025**
-- `GitHub` (beginner), used to build and publicize this portfolio
+- `Excel`: *Microsoft Office Specialist (MOS) Associate certified*, earned at Southeast Missouri State University **2025**
+- `GitHub` (beginner), used to build and publish this portfolio
 - `Python` (in progress), used in current coursework for data cleaning and visualization
 
 
@@ -35,3 +35,10 @@ Business Analytics graduate student at **Cal State San Marcos** working toward a
 
 - Email: rocha196@csusm.edu
 - [Github](https://github.com/MichaelRocha728)
+
+
+## References 
+
+I used Claude for technical help such as helping with a failed build, and proofreading my page.
+
+Anthropic. (2026). *Claude Sonnet 5.5* (Oct 1 version) [Large language model]. https://claude.ai
