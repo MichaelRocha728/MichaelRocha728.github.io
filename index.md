@@ -30,6 +30,11 @@ Business Analytics graduate student at **Cal State San Marcos** working toward a
  Built and published a personal website using `Git` and `GitHub Pages` with content written in markdown. 
 [view the repository](https://github.com/MichaelRocha728/MichaelRocha728.github.io)
 
+### How I Built My E-Portfolio
+
+A step-by-step guide to how I created this site with GitHub Pages and the Minimal theme.
+[Read the guide](/building-my-eportfolio/)
+
 
 ## Contact
 
