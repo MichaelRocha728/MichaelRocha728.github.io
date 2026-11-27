@@ -58,4 +58,4 @@ pandas development team. (n.d.). *pandas.DataFrame.astype*. Retrieved November 1
 
 ## Appendix: AI Assistance
 
-I used Claude (Anthropic, 2026) as a revisor while completing this milestone. Helping me with presentation and grammer with Assignment 1 and 2 notebooks. GitHub Copilot was used in Assignment 2 to help write the quantile aggregation code. 
+I used Claude (Anthropic, 2026) as a revisor while completing this milestone. Helping me with presentation and grammar with Assignment 1 and 2 notebooks. GitHub Copilot was used in Assignment 2 to help write the quantile aggregation code. 
