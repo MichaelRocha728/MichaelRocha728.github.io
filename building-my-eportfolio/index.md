@@ -117,8 +117,6 @@ Here is my finished portfolio
 
 ## References
 
-## References
-
 Anthropic. (2026). *Claude* (Opus 5.5, Oct 29 version) [Large language model]. https://claude.ai
 
 GitHub. (n.d.). *Minimal theme* [Source code]. Retrieved October 29, 2026, from https://github.com/pages-themes/minimal

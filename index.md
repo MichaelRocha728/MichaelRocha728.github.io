@@ -35,6 +35,10 @@ Business Analytics graduate student at **Cal State San Marcos** working toward a
 A step-by-step guide to how I created this site with GitHub Pages and the Minimal theme.
 [Read the guide](/building-my-eportfolio/)
 
+### OM 620 Assignments: Safety Stock Analysis
+
+Cleaned an inventory transaction dataset in `Python` and calculated safety stock levels for Make-to-Stock SKUs.
+[View the project](/om620-assignments/)
 
 ## Contact
 
