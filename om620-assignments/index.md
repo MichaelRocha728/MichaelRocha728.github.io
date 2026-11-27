@@ -29,7 +29,6 @@ The repository's data folder has the transaction dataset and the metadata. The n
 
 - Assignment 2 continues from Assignment 1, with the goal of calculating safety stock for each SKU that is Made to Stock. Before we did anything, we cleaned the data again. This time we also found lead times with extra zeros added to the end (for example, 2800 instead of 28), so we fixed those. 
 - Instead of dropping the missing values like in Assignment 1, we filled them with "Unknown", because removing them would have lost a lot of data.
-
 - From there, we filtered for Made to Stock SKUs, which left 497,889 orders, and grouped them by SKU to find the min, max, median, variance, standard deviation, and average of order quantity, along with the average lead time. 
 - We then used the formula `Safety Stock = z * standard deviation of demand * sqrt(lead time)` to calculate the safety stock at the 75%, 90%, and 95% service levels, where z is the z-score of the service level.
 
