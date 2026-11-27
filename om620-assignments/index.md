@@ -31,7 +31,7 @@ The repository's data folder has the transaction dataset and the metadata. The n
 - Instead of dropping the missing values like in Assignment 1, we filled them with "Unknown", because removing them would have lost a lot of data.
 
 - From there, we filtered for Made to Stock SKUs, which left 497,889 orders, and grouped them by SKU to find the min, max, median, variance, standard deviation, and average of order quantity, along with the average lead time. 
-- We then used the formula Safety Stock = z * standard deviation of demand * sqrt(lead time) to calculate the safety stock at the 75%, 90%, and 95% service levels, where z is the z-score of the service level.
+- We then used the formula `Safety Stock = z * standard deviation of demand * sqrt(lead time)` to calculate the safety stock at the 75%, 90%, and 95% service levels, where z is the z-score of the service level.
 
 **Findings (95% service level):**
 - SKU 7D640DC9 has the largest safety stock at 361 units.
@@ -40,3 +40,23 @@ The repository's data folder has the transaction dataset and the metadata. The n
 
 
 **Side Quest:** The formula assumes a normal distribution of demand, which isn't always the case. So we also calculated safety stock using empirical quantiles. This gave a lower average of about 112 units, which shows the normal distribution can overestimate the safety stock for some SKUs.
+
+## References
+
+Anthropic. (2026). *Claude* (Opus 5.5, Nov 26 version) [Large language model]. https://claude.ai
+
+GitHub. (2026). *GitHub Copilot* [AI coding assistant in VS Code].
+
+The SciPy Community. (2026). *scipy.stats.mstats.mquantiles*. SciPy v1.18.0 Manual. Retrieved November 18, 2026, from https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.mquantiles.html
+
+The SciPy Community. (2026). *scipy.stats.rv_continuous.ppf*. SciPy v1.18.0 Manual. Retrieved November 16, 2026, from https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rv_continuous.ppf.html
+
+pandas development team. (n.d.). *pandas.DataFrame.rename*. Retrieved October 20, 2026, from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html
+
+pandas development team. (n.d.). *pandas.api.typing.SeriesGroupBy.std*. Retrieved November 16, 2026, from https://pandas.pydata.org/docs/reference/api/pandas.api.typing.SeriesGroupBy.std.html
+
+pandas development team. (n.d.). *pandas.DataFrame.astype*. Retrieved November 17, 2026, from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html
+
+## Appendix: AI Assistance
+
+I used Claude (Anthropic, 2026) as a revisor while completing this milestone. Helping me with presentation and grammer with Assignment 1 and 2 notebooks. GitHub Copilot was used in Assignment 2 to help write the quantile aggregation code. 
